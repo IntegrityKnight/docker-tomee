@@ -1,4 +1,4 @@
-ARG  CODE_VERSION=8-jre-7.1.0-plus
+ARG  CODE_VERSION=8-jre-8.0.0-M1-plus
 
 #Base image comes from "https://hub.docker.com/_/tomee/"
 #TomEE version compare "http://tomee.apache.org/comparison.html"
